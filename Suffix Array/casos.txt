@@ -1,0 +1,45 @@
+Caso 1:
+ventilador
+Salida:
+6 ADOR      
+7 DOR       
+1 ENTILADOR 
+4 ILADOR    
+5 LADOR     
+2 NTILADOR  
+8 OR
+9 R
+3 TILADOR
+0 VENTILADOR
+
+Caso 2:
+hola
+Salida:
+3 A
+0 HOLA
+2 LA
+1 OLA
+
+Caso 3:
+cuando
+Salida:
+2 ANDO  
+0 CUANDO
+4 DO    
+3 NDO   
+5 O
+1 UANDO
+
+Caso 4:
+algoritmos
+Salida:
+0 ALGORITMOS
+2 GORITMOS
+5 ITMOS
+1 LGORITMOS
+7 MOS
+3 ORITMOS
+8 OS
+4 RITMOS
+9 S
+6 TMOS
